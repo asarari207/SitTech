@@ -1,0 +1,23 @@
+.MainHero{
+    width: 100%;
+    height: 550px;
+    background-size: cover;
+}
+
+.shadow{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(39, 37, 37);
+    opacity: 0.8;
+}
+
+.content{
+    padding: 5%;
+    font-size: 70px;
+    color: #ffd232;
+    opacity: 1;
+}
+
+.content span{
+    color: #fff;
+}
